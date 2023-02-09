@@ -12,7 +12,7 @@
 			"publisherURL": "https://opensemantic.world",
 			"description": "A test package",
 			"version": "0.1.0",
-			"baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.legal/main/core/",
+			"baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.legal/demo/core/",
 			"pages": [
         {
 					"name": "About",
