@@ -4,15 +4,15 @@
 		"Simon Stier"
 	],
 	"language": "en",
-	"url": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.legal",
+	"url": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal",
 	"licenseName": "CC BY-SA 4.0",
 	"packages": {
-		"core": {
+		"Meta: Legal Content": {
 			"globalID": "world.opensemantic.legal.core",
 			"publisherURL": "https://opensemantic.world",
 			"description": "A test package",
 			"version": "0.1.0",
-			"baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.legal/demo/core/",
+			"baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/demo/core/",
 			"pages": [
         {
 					"name": "About",
