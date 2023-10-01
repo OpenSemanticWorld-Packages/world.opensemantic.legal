@@ -1,12 +1,8 @@
-You have installed the template package. 
-
-Please create your own fork and replace this file with a template-call:
-
-<code>
 {{Helper/Project/Privacy_policy
-|contact=<your data protection office>
-|email=<your data protection officer email>
-}}
-</code>
+|contact=Data Info Knowledge
+Dr. Simon Stier
 
-More information: https://github.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal
+Postfach 5128
+97001 Würzburg 
+|email=
+}}
