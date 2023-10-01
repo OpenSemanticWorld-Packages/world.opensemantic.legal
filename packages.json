@@ -10,8 +10,8 @@
         "Meta: Legal Content": {
             "globalID": "world.opensemantic.legal.core",
             "publisherURL": "https://opensemantic.world",
+            "version": "0.2.1",
             "description": "Privacy policy, Data Protection Information, etc.",
-            "version": "0.2.0",
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/demo/core/",
             "pages": [
                 {

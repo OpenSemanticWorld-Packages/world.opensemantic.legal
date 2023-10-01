@@ -10,3 +10,7 @@ Please create your own fork and replace [/core/Project/Privacy_policy.wikitext](
 |email=<your data protection officer email>
 }}
 ```
+
+`contact` is address of the responsible organization.
+If no `email` address is provided, reference is made to the postal `contact` address.
+
