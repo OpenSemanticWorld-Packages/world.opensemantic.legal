@@ -1,42 +1,46 @@
 {
-	"publisher": "OpenSemanticLab",
-	"author": [
-		"Simon Stier"
-	],
-	"language": "en",
-	"url": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal",
-	"licenseName": "CC BY-SA 4.0",
-	"packages": {
-		"Meta: Legal Content": {
-			"globalID": "world.opensemantic.legal.core",
-			"publisherURL": "https://opensemantic.world",
-			"description": "A test package",
-			"version": "0.1.0",
-			"baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/main/core/",
-			"pages": [
-        {
-					"name": "About",
-					"namespace": "NS_PROJECT",
-					"urlPath": "Project/About.wikitext"
-				},				
-        {
-					"name": "General_disclaimer",
-					"namespace": "NS_PROJECT",
-					"urlPath": "Project/General_disclaimer.wikitext"
-				},
-        {
-					"name": "Terms_of_Service",
-					"namespace": "NS_PROJECT",
-					"urlPath": "Project/Terms_of_Service.wikitext"
-				},
-        {
-					"name": "Privacy_policy",
-					"namespace": "NS_PROJECT",
-					"urlPath": "Project/Privacy_policy.wikitext"
-				}
-			],
-			"requiredExtensions": [
-			]
-		}
-	}
+    "publisher": "OpenSemanticLab",
+    "author": [
+        "Simon Stier"
+    ],
+    "language": "en",
+    "url": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal",
+    "licenseName": "CC BY-SA 4.0",
+    "packages": {
+        "Meta: Legal Content": {
+            "globalID": "world.opensemantic.legal.core",
+            "publisherURL": "https://opensemantic.world",
+            "description": "Privacy policy, Data Protection Information, etc.",
+            "version": "0.2.0",
+            "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/main/core/",
+            "pages": [
+                {
+                    "name": "Helper/Project/Privacy_policy",
+                    "namespace": "NS_TEMPLATE",
+                    "urlPath": "Template/Helper/Project/Privacy_policy.wikitext"
+                },
+                {
+                    "name": "About",
+                    "namespace": "NS_PROJECT",
+                    "urlPath": "Project/About.wikitext"
+                },
+                {
+                    "name": "General_disclaimer",
+                    "namespace": "NS_PROJECT",
+                    "urlPath": "Project/General_disclaimer.wikitext"
+                },
+                {
+                    "name": "Terms_of_Service",
+                    "namespace": "NS_PROJECT",
+                    "urlPath": "Project/Terms_of_Service.wikitext"
+                },
+                {
+                    "name": "Privacy_policy",
+                    "namespace": "NS_PROJECT",
+                    "urlPath": "Project/Privacy_policy.wikitext"
+                }
+            ],
+            "requiredExtensions": []
+        }
+    }
 }
