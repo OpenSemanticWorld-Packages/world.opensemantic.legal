@@ -12,7 +12,7 @@
             "publisherURL": "https://opensemantic.world",
             "version": "0.2.1",
             "description": "Privacy policy, Data Protection Information, etc.",
-            "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/main/core/",
+            "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal/custom/core/",
             "pages": [
                 {
                     "name": "Helper/Project/Privacy_policy",
@@ -33,11 +33,6 @@
                     "name": "Terms_of_Service",
                     "namespace": "NS_PROJECT",
                     "urlPath": "Project/Terms_of_Service.wikitext"
-                },
-                {
-                    "name": "Privacy_policy",
-                    "namespace": "NS_PROJECT",
-                    "urlPath": "Project/Privacy_policy.wikitext"
                 }
             ],
             "requiredExtensions": []
